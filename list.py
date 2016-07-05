@@ -2,4 +2,6 @@
 
 app_list = []
 
+dict_name = {}
+
 print app_list
