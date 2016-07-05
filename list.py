@@ -2,4 +2,6 @@
 
 app_list = []
 
+print aaa
+
 print app_list
